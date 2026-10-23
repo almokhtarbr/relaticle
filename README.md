@@ -23,6 +23,10 @@
 </p>
 
 <p align="center">
+  <a href="https://app.railyard.run/deploy?repo=https://github.com/relaticle/relaticle"><img src="https://app.railyard.run/deploy/badge" alt="Deploy to Railyard"></a>
+</p>
+
+<p align="center">
   <img src="https://relaticle.com/images/github-preview-light.png?v=5" alt="Relaticle Home - Rela the AI assistant, chat history, and your open tasks in one view" />
   <br>
   <sub>Clean, modern interface built with Filament 5 and Livewire 4</sub>
